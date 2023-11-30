@@ -1,1 +1,1 @@
-# VLM-Driven-Object-Goal-Navigation
+# VLM-Driven-Object-Goal-Navigation-Project
